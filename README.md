@@ -6,6 +6,7 @@ The purpose of this notebook was to include all the basic functions in one place
 The contents are inspired by the official OpenCV documentation tutorials. Following topics are included in the notebook and are generally used for any computer vision task:
 
 1.	Core operations:
+
 •	Basic Operations
    - Reading and displaying an image
    - Channels of an image
@@ -13,6 +14,7 @@ The contents are inspired by the official OpenCV documentation tutorials. Follow
    - Image ROI (Region of interest)
 
 2.	Image processing:
+
 •	Color spaces
 •	Color based object detection and Masking
 •	Thresholding
@@ -24,6 +26,7 @@ The contents are inspired by the official OpenCV documentation tutorials. Follow
 •	Canny edge detection
 
 3.	Feature detection and description:
+
 •	Understanding features
 •	SIFT 
 •	Feature Matching using SIFT
