@@ -5,9 +5,9 @@ The purpose of this notebook is to include all the basic functions in one place,
 
 The contents are inspired by the official OpenCV documentation tutorials. Following topics are included in the notebook and are generally used for any computer vision task:
 
-1.	Core operations:
+**1.	Core operations:**
 
-   •	Basic Operations
+   -	Basic Operations
         
         - Reading and displaying an image
         
@@ -17,34 +17,34 @@ The contents are inspired by the official OpenCV documentation tutorials. Follow
         
         - Image ROI (Region of interest)
 
-2.	Image processing:
+**2.	Image processing:**
 
-   •	Color spaces
+   -	Color spaces
 
-   •	Color based object detection and Masking
+   -	Color based object detection and Masking
 
-   •	Thresholding
+   -	Thresholding
 
-   •	Smoothing
+   -	Smoothing
        
        - Gaussian blurring
        
        - Median blurring
 
-   •	Gradients
+   -	Gradients
        
        - Sobel and Laplacian
    
-   •	Canny edge detection
+   -	Canny edge detection
 
-3.	Feature detection and description:
+**3.	Feature detection and description:**
 
-   •	Understanding features
+   -	Understanding features
 
-   •	SIFT 
+   -	SIFT 
 
-   •	Feature Matching using SIFT
+   -	Feature Matching using SIFT
 
-OpenCV version used: 3.3.1
+*OpenCV version used: 3.3.1*
 
-Dependencies: OpenCV, Matplotlib, Numpy
+*Dependencies: OpenCV, Matplotlib, Numpy*
