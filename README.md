@@ -8,10 +8,14 @@ The contents are inspired by the official OpenCV documentation tutorials. Follow
 1.	Core operations:
 
    •	Basic Operations
-         - Reading and displaying an image
-         - Channels of an image
-         - Accessing pixels
-         - Image ROI (Region of interest)
+        
+        - Reading and displaying an image
+        
+        - Channels of an image
+        
+        - Accessing pixels
+        
+        - Image ROI (Region of interest)
 
 2.	Image processing:
 
@@ -22,10 +26,13 @@ The contents are inspired by the official OpenCV documentation tutorials. Follow
    •	Thresholding
 
    •	Smoothing
+       
        - Gaussian blurring
+       
        - Median blurring
 
    •	Gradients
+       
        - Sobel and Laplacian
    
    •	Canny edge detection
