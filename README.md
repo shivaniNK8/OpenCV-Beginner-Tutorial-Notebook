@@ -7,7 +7,7 @@ The contents are inspired by the official OpenCV documentation tutorials. Follow
 
 1.	Core operations:
 
-•	Basic Operations
+   •	Basic Operations
    - Reading and displaying an image
    - Channels of an image
    - Accessing pixels
@@ -16,19 +16,26 @@ The contents are inspired by the official OpenCV documentation tutorials. Follow
 2.	Image processing:
 
 •	Color spaces
+
 •	Color based object detection and Masking
+
 •	Thresholding
+
 •	Smoothing
     - Gaussian blurring
     - Median blurring
+
 •	Gradients
     - Sobel and Laplacian
+
 •	Canny edge detection
 
 3.	Feature detection and description:
 
 •	Understanding features
+
 •	SIFT 
+
 •	Feature Matching using SIFT
 
 OpenCV version used: 3.3.1
