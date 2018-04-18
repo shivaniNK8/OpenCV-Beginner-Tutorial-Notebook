@@ -1,4 +1,4 @@
-# OpenCV Python Beginner Tutorial Notebook
+# OpenCV3 Python Beginner Tutorial Notebook
 This notebook contains an introduction to various concepts/functions used in OpenCV. 
 
 The purpose of this notebook is to include all the basic functions in one place, along with a brief mention of when they should be used, so that beginners can experiment with OpenCV. 
