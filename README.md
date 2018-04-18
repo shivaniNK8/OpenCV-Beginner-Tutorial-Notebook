@@ -1,7 +1,7 @@
 # OpenCV Python Beginner Tutorial Notebook
 This notebook contains an introduction to various concepts/functions used in OpenCV. 
 
-The purpose of this notebook was to include all the basic functions in one place, along with a brief mention of when they should be used, so that beginners can experiment with OpenCV. 
+The purpose of this notebook is to include all the basic functions in one place, along with a brief mention of when they should be used, so that beginners can experiment with OpenCV. 
 
 The contents are inspired by the official OpenCV documentation tutorials. Following topics are included in the notebook and are generally used for any computer vision task:
 
